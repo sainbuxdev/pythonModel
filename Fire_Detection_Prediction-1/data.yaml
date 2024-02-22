@@ -1,0 +1,15 @@
+names:
+- '-'
+- Smoke
+- This dataset was exported via roboflow.com on February 2- 2023 at 8-51 AM GMT
+- fire - v8 2022-06-02 9-15am
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: fire_detection_prediction
+  url: https://universe.roboflow.com/fyp-oyjrq/fire_detection_prediction/dataset/1
+  version: 1
+  workspace: fyp-oyjrq
+test: ../test/images
+train: Fire_Detection_Prediction-1/train/images
+val: Fire_Detection_Prediction-1/valid/images
